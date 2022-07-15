@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import DeclarativeRender from './components/DeclarativeRender.vue'
+import DeclarativeRender from './components/001_DeclarativeRender.vue'
 
 export default {
   name: 'App',
